@@ -21,1039 +21,7 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="78" column="15" selection-start-line="78" selection-start-column="15" selection-end-line="78" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning-dao/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning-common/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="45" column="48" lean-forward="true" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning-web/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LearningWebApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning-web/src/main/java/com/tu/learning/LearningWebApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning-web/src/main/java/com/tu/learning/web/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MAVEN/com.tu.learning:learning-web:0.0.1-SNAPSHOT" pinned="false" current-in-tab="false">
-        <entry file="uml://MAVEN/com.tu.learning:learning-web:0.0.1-SNAPSHOT">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>MAVEN</ID>
-              <OriginalElement>com.tu.learning:learning-web:0.0.1-SNAPSHOT</OriginalElement>
-              <nodes>
-                <node x="2246.2412908037977" y="1390.0">com.tu.learning:learning-web:0.0.1-SNAPSHOT</node>
-                <node x="768.1787908037979" y="1310.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE</node>
-                <node x="1835.2875" y="730.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE</node>
-                <node x="1866.7875" y="630.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE</node>
-                <node x="1927.622850235352" y="520.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
-                <node x="2321.622850235352" y="390.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
-                <node x="1781.7875" y="520.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0</node>
-                <node x="2191.4125" y="390.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0</node>
-                <node x="2068.622850235352" y="520.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
-                <node x="459.25" y="630.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
-                <node x="1753.7875" y="630.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.yaml:snakeyaml:jar:1.19</node>
-                <node x="972.3662908037975" y="1190.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE</node>
-                <node x="946.1666666666665" y="1020.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7</node>
-                <node x="818.6724714474731" y="930.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
-                <node x="1086.8662908037975" y="930.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-core:jar:2.9.7</node>
-                <node x="1260.5416666666665" y="1100.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.7</node>
-                <node x="813.5416666666665" y="1100.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.7</node>
-                <node x="1006.5416666666665" y="1100.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.7</node>
-                <node x="156.88131935632396" y="1190.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.6.RELEASE</node>
-                <node x="222.5" y="1020.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.34</node>
-                <node x="0.0" y="1100.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.34</node>
-                <node x="153.0" y="1100.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.34</node>
-                <node x="1554.5416666666665" y="1190.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final</node>
-                <node x="1576.5416666666665" y="1100.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
-                <node x="1443.5416666666665" y="1100.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
-                <node x="1707.5416666666665" y="1100.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final/com.fasterxml:classmate:jar:1.3.4</node>
-                <node x="654.6724714474731" y="1100.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-web:jar:5.0.10.RELEASE</node>
-                <node x="2050.870833333333" y="200.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-web:jar:5.0.10.RELEASE/org.springframework:spring-beans:jar:5.0.10.RELEASE</node>
-                <node x="428.9287908037975" y="1190.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE</node>
-                <node x="663.25" y="290.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE/org.springframework:spring-aop:jar:5.0.10.RELEASE</node>
-                <node x="2055.4125" y="390.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE/org.springframework:spring-context:jar:5.0.10.RELEASE</node>
-                <node x="403.5" y="290.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE/org.springframework:spring-expression:jar:5.0.10.RELEASE</node>
-                <node x="3538.5367453492518" y="1310.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE</node>
-                <node x="3589.0367453492518" y="1100.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-test:jar:2.0.6.RELEASE</node>
-                <node x="3339.5367453492518" y="1190.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.0.6.RELEASE</node>
-                <node x="4160.536745349253" y="1190.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0</node>
-                <node x="4120.036745349253" y="1100.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3</node>
-                <node x="4103.536745349253" y="1020.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2</node>
-                <node x="4139.036745349253" y="930.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4</node>
-                <node x="2472.497850235352" y="390.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.25</node>
-                <node x="3115.5367453492518" y="1190.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/junit:junit:jar:4.12</node>
-                <node x="3573.5367453492518" y="1190.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.assertj:assertj-core:jar:3.9.1</node>
-                <node x="3844.5367453492518" y="1190.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.mockito:mockito-core:jar:2.15.0</node>
-                <node x="3737.0367453492518" y="1100.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy:jar:1.7.11</node>
-                <node x="3963.0367453492518" y="1100.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy-agent:jar:1.7.11</node>
-                <node x="3856.0367453492518" y="1100.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.mockito:mockito-core:jar:2.15.0/org.objenesis:objenesis:jar:2.6</node>
-                <node x="3141.7867453492518" y="1100.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
-                <node x="3192.5367453492518" y="1190.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
-                <node x="3004.5367453492518" y="1190.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0</node>
-                <node x="2996.5367453492518" y="1100.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
-                <node x="2087.870833333333" y="80.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-core:jar:5.0.10.RELEASE</node>
-                <node x="2094.870833333333" y="0.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-core:jar:5.0.10.RELEASE/org.springframework:spring-jcl:jar:5.0.10.RELEASE</node>
-                <node x="4297.103412015918" y="200.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-test:jar:5.0.10.RELEASE</node>
-                <node x="4013.1617453492518" y="1190.0">org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.xmlunit:xmlunit-core:jar:2.5.1</node>
-                <node x="1862.234971447473" y="1310.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT</node>
-                <node x="1886.15163811414" y="1190.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT</node>
-                <node x="1947.87663811414" y="1100.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT</node>
-                <node x="1886.85" y="1020.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-common:jar:0.0.1-SNAPSHOT</node>
-                <node x="1950.85" y="930.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-common:jar:0.0.1-SNAPSHOT/tk.mybatis:mapper:jar:3.4.0</node>
-                <node x="1929.35" y="850.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-common:jar:0.0.1-SNAPSHOT/tk.mybatis:mapper:jar:3.4.0/javax.persistence:persistence-api:jar:1.0</node>
-                <node x="2041.85" y="1020.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3</node>
-                <node x="2152.0345544095553" y="730.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper-spring-boot-autoconfigure:jar:1.2.3</node>
-                <node x="2140.7875" y="930.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper:jar:5.1.2</node>
-                <node x="2145.2875" y="850.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper:jar:5.1.2/com.github.jsqlparser:jsqlparser:jar:1.0</node>
-                <node x="2211.2412908037977" y="1190.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT</node>
-                <node x="2349.225" y="1100.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.47</node>
-                <node x="2110.7412908037977" y="1100.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/com.alibaba:druid:jar:1.1.10</node>
-                <node x="2370.475" y="930.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2</node>
-                <node x="2563.725" y="850.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.6.RELEASE</node>
-                <node x="2512.35" y="520.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.6.RELEASE/com.zaxxer:HikariCP:jar:2.7.9</node>
-                <node x="2800.1" y="390.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.6.RELEASE/org.springframework:spring-jdbc:jar:5.0.10.RELEASE</node>
-                <node x="2807.6" y="290.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.6.RELEASE/org.springframework:spring-jdbc:jar:5.0.10.RELEASE/org.springframework:spring-tx:jar:5.0.10.RELEASE</node>
-                <node x="2560.0345544095553" y="730.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.2</node>
-                <node x="2310.975" y="850.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis:mybatis:jar:3.4.6</node>
-                <node x="2407.975" y="850.0">com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis:mybatis-spring:jar:1.3.2</node>
-                <node x="3014.084971447473" y="730.0">org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE</node>
-                <node x="2613.35" y="520.0">org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot:jar:2.0.6.RELEASE</node>
-                <node x="2443.475" y="630.0">org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.6.RELEASE</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.6.RELEASE">
-                  <point x="60.416666666666515" y="-15.0" />
-                  <point x="1968.2041666666664" y="700.0" />
-                  <point x="2462.2749999999996" y="700.0" />
-                  <point x="-75.20000000000005" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-web:jar:5.0.10.RELEASE">
-                  <point x="50.41666666666697" y="-15.0" />
-                  <point x="539.8454574704645" y="1170.0" />
-                  <point x="671.0058047808061" y="1170.0" />
-                  <point x="-32.66666666666697" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-core:jar:5.0.10.RELEASE">
-                  <point x="-50.41666666666697" y="-15.0" />
-                  <point x="439.0121241371305" y="1170.0" />
-                  <point x="393.0" y="1170.0" />
-                  <point x="393.0" y="130.0" />
-                  <point x="2092.0374999999995" y="130.0" />
-                  <point x="-45.833333333333485" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.hamcrest:hamcrest-library:jar:1.3">
-                  <point x="-26.307692307692264" y="-15.0" />
-                  <point x="3597.72905304156" y="1250.0" />
-                  <point x="3256.0367453492518" y="1250.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.34">
-                  <point x="23.75" y="-15.0" />
-                  <point x="275.63131935632396" y="1160.0" />
-                  <point x="348.5" y="1160.0" />
-                  <point x="348.5" y="1080.0" />
-                  <point x="334.25" y="1080.0" />
-                  <point x="37.25" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0">
-                  <point x="-65.76923076923072" y="-15.0" />
-                  <point x="3558.2675145800213" y="1280.0" />
-                  <point x="3050.0367453492518" y="1280.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.assertj:assertj-core:jar:3.9.1">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-web:0.0.1-SNAPSHOT" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT">
-                  <point x="-13.5" y="-15.0" />
-                  <point x="2286.7412908037977" y="1360.0" />
-                  <point x="1936.734971447473" y="1360.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2">
-                  <point x="81.375" y="-15.0" />
-                  <point x="2231.725" y="1000.0" />
-                  <point x="2419.225" y="1000.0" />
-                  <point x="-48.75" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.xmlunit:xmlunit-core:jar:2.5.1">
-                  <point x="39.46153846153845" y="-15.0" />
-                  <point x="3663.4982838107903" y="1260.0" />
-                  <point x="4065.1617453492518" y="1260.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-test:jar:5.0.10.RELEASE">
-                  <point x="65.76923076923072" y="-15.0" />
-                  <point x="3689.8059761184827" y="1280.0" />
-                  <point x="4344.603412015918" y="1280.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.6.RELEASE">
-                  <point x="-39.25" y="-15.0" />
-                  <point x="3053.334971447473" y="700.0" />
-                  <point x="2575.075" y="700.0" />
-                  <point x="37.59999999999991" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0">
-                  <point x="-65.0" y="-15.0" />
-                  <point x="1899.2875" y="610.0" />
-                  <point x="1834.7875" y="610.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-core:jar:2.9.7">
-                  <point x="40.5" y="-15.0" />
-                  <point x="1382.0416666666665" y="990.0" />
-                  <point x="1180.4912908037975" y="990.0" />
-                  <point x="40.125" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.6.RELEASE">
-                  <point x="-53.5" y="-15.0" />
-                  <point x="3393.0367453492518" y="690.0" />
-                  <point x="2612.675" y="690.0" />
-                  <point x="75.20000000000005" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE/org.springframework:spring-context:jar:5.0.10.RELEASE">
-                  <point x="30.25" y="-15.0" />
-                  <point x="519.6787908037975" y="1160.0" />
-                  <point x="629.75" y="1160.0" />
-                  <point x="629.75" y="450.0" />
-                  <point x="2084.4125" y="450.0" />
-                  <point x="-29.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE/org.springframework:spring-context:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE/org.springframework:spring-expression:jar:5.0.10.RELEASE">
-                  <point x="-43.5" y="-15.0" />
-                  <point x="2069.9125" y="350.0" />
-                  <point x="506.25" y="350.0" />
-                  <point x="34.25" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.25">
-                  <point x="0.0" y="-15.0" />
-                  <point x="2113.622850235352" y="500.0" />
-                  <point x="2511.497850235352" y="500.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot:jar:2.0.6.RELEASE">
-                  <point x="36.25" y="-15.0" />
-                  <point x="1944.0375" y="690.0" />
-                  <point x="2159.997850235352" y="690.0" />
-                  <point x="2159.997850235352" y="600.0" />
-                  <point x="2626.1" y="600.0" />
-                  <point x="-38.25" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE/org.springframework:spring-context:jar:5.0.10.RELEASE">
-                  <point x="-25.5" y="-15.0" />
-                  <point x="2638.85" y="450.0" />
-                  <point x="2142.4125" y="450.0" />
-                  <point x="29.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/junit:junit:jar:4.12">
-                  <point x="-52.615384615384585" y="-15.0" />
-                  <point x="3571.4213607338675" y="1270.0" />
-                  <point x="3143.5367453492518" y="1270.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-core:jar:5.0.10.RELEASE">
-                  <point x="25.5" y="-15.0" />
-                  <point x="2689.85" y="500.0" />
-                  <point x="2919.7666666666664" y="500.0" />
-                  <point x="2919.7666666666664" y="150.0" />
-                  <point x="2167.0374999999995" y="150.0" />
-                  <point x="29.166666666666515" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0">
-                  <point x="-26.5" y="-15.0" />
-                  <point x="1808.2875" y="460.0" />
-                  <point x="2233.4125" y="460.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-core:jar:5.0.10.RELEASE">
-                  <point x="78.9230769230769" y="-15.0" />
-                  <point x="3702.959822272329" y="1290.0" />
-                  <point x="4402.603412015918" y="1290.0" />
-                  <point x="4402.603412015918" y="130.0" />
-                  <point x="2183.7041666666664" y="130.0" />
-                  <point x="45.833333333333485" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final">
-                  <point x="-47.66666666666697" y="-15.0" />
-                  <point x="1578.3749999999995" y="1170.0" />
-                  <point x="1500.0416666666665" y="1170.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.34" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.34">
-                  <point x="0.0" y="-15.0" />
-                  <point x="245.5" y="1080.0" />
-                  <point x="259.75" y="1080.0" />
-                  <point x="-37.25" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE/org.springframework:spring-aop:jar:5.0.10.RELEASE">
-                  <point x="-10.08333333333303" y="-15.0" />
-                  <point x="479.34545747046445" y="1150.0" />
-                  <point x="448.75" y="1150.0" />
-                  <point x="448.75" y="360.0" />
-                  <point x="687.5" y="360.0" />
-                  <point x="-24.25" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.6.RELEASE/com.zaxxer:HikariCP:jar:2.7.9" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.25">
-                  <point x="0.0" y="-15.0" />
-                  <point x="2552.85" y="500.0" />
-                  <point x="2527.097850235352" y="500.0" />
-                  <point x="15.599999999999909" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0">
-                  <point x="-57.333333333333485" y="-15.0" />
-                  <point x="842.208333333333" y="1080.0" />
-                  <point x="855.9224714474731" y="1080.0" />
-                  <point x="-37.25" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE/org.springframework:spring-aop:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-web:jar:5.0.10.RELEASE/org.springframework:spring-beans:jar:5.0.10.RELEASE">
-                  <point x="24.25" y="-15.0" />
-                  <point x="736.0" y="250.0" />
-                  <point x="2059.9541666666664" y="250.0" />
-                  <point x="-45.416666666666515" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE">
-                  <point x="-49.666666666666515" y="-15.0" />
-                  <point x="1887.0683047808066" y="1290.0" />
-                  <point x="1818.0416666666665" y="1290.0" />
-                  <point x="1818.0416666666665" y="810.0" />
-                  <point x="1868.2420454545454" y="810.0" />
-                  <point x="-39.545454545454504" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/mysql:mysql-connector-java:jar:5.1.47">
-                  <point x="21.40000000000009" y="-15.0" />
-                  <point x="2286.1412908037973" y="1160.0" />
-                  <point x="2427.725" y="1160.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.6.RELEASE/org.springframework:spring-jdbc:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-core:jar:5.0.10.RELEASE">
-                  <point x="33.0" y="-15.0" />
-                  <point x="2882.6" y="370.0" />
-                  <point x="2902.1" y="370.0" />
-                  <point x="2902.1" y="160.0" />
-                  <point x="2158.7041666666664" y="160.0" />
-                  <point x="20.833333333333485" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.mockito:mockito-core:jar:2.15.0">
-                  <point x="26.307692307692264" y="-15.0" />
-                  <point x="3650.344437656944" y="1250.0" />
-                  <point x="3899.5367453492518" y="1250.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE">
-                  <point x="-40.333333333333485" y="-15.0" />
-                  <point x="1968.0433047808065" y="1080.0" />
-                  <point x="1876.35" y="1080.0" />
-                  <point x="1876.35" y="830.0" />
-                  <point x="1894.605681818182" y="830.0" />
-                  <point x="-13.181818181818016" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE">
-                  <point x="-78.9230769230769" y="-15.0" />
-                  <point x="3545.113668426175" y="1290.0" />
-                  <point x="2927.451221076222" y="1290.0" />
-                  <point x="2927.451221076222" y="780.0" />
-                  <point x="1973.696590909091" y="780.0" />
-                  <point x="65.90909090909099" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.0.6.RELEASE">
-                  <point x="-13.153846153846132" y="-15.0" />
-                  <point x="3610.882899195406" y="1240.0" />
-                  <point x="3446.5367453492518" y="1240.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3">
-                  <point x="0.0" y="-15.0" />
-                  <point x="1964.2875" y="610.0" />
-                  <point x="1988.122850235352" y="610.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE">
-                  <point x="0.0" y="-15.0" />
-                  <point x="2264.7412908037977" y="1170.0" />
-                  <point x="2269.35" y="1170.0" />
-                  <point x="2269.35" y="820.0" />
-                  <point x="1934.1511363636364" y="820.0" />
-                  <point x="26.363636363636488" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.2" target="org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.6.RELEASE">
-                  <point x="0.0" y="-15.0" />
-                  <point x="2679.0345544095553" y="710.0" />
-                  <point x="2537.475" y="710.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE/org.springframework:spring-context:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-core:jar:5.0.10.RELEASE">
-                  <point x="43.5" y="-15.0" />
-                  <point x="2156.9125" y="370.0" />
-                  <point x="2170.370833333333" y="370.0" />
-                  <point x="2170.370833333333" y="180.0" />
-                  <point x="2142.0374999999995" y="180.0" />
-                  <point x="4.166666666666515" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.6.RELEASE/org.springframework:spring-jdbc:jar:5.0.10.RELEASE/org.springframework:spring-tx:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-core:jar:5.0.10.RELEASE">
-                  <point x="21.0" y="-15.0" />
-                  <point x="2870.6" y="170.0" />
-                  <point x="2150.370833333333" y="170.0" />
-                  <point x="12.5" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE">
-                  <point x="72.49999999999955" y="-15.0" />
-                  <point x="927.6787908037975" y="1290.0" />
-                  <point x="1807.0416666666665" y="1290.0" />
-                  <point x="1807.0416666666665" y="800.0" />
-                  <point x="1855.0602272727274" y="800.0" />
-                  <point x="-52.72727272727252" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-web:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-web:jar:5.0.10.RELEASE/org.springframework:spring-beans:jar:5.0.10.RELEASE">
-                  <point x="24.5" y="-15.0" />
-                  <point x="728.1724714474731" y="1080.0" />
-                  <point x="781.75" y="1080.0" />
-                  <point x="781.75" y="270.0" />
-                  <point x="2096.2874999999995" y="270.0" />
-                  <point x="-9.083333333333485" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-core:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-core:jar:5.0.10.RELEASE/org.springframework:spring-jcl:jar:5.0.10.RELEASE">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE">
-                  <point x="-58.33333333333326" y="-15.0" />
-                  <point x="2592.8916666666664" y="790.0" />
-                  <point x="1960.5147727272729" y="790.0" />
-                  <point x="52.727272727272975" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT">
-                  <point x="31.0" y="-15.0" />
-                  <point x="1979.15163811414" y="1170.0" />
-                  <point x="1978.12663811414" y="1170.0" />
-                  <point x="-30.25" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-common:jar:0.0.1-SNAPSHOT/tk.mybatis:mapper:jar:3.4.0" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-common:jar:0.0.1-SNAPSHOT/tk.mybatis:mapper:jar:3.4.0/javax.persistence:persistence-api:jar:1.0">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.6.RELEASE" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.6.RELEASE/org.springframework:spring-jdbc:jar:5.0.10.RELEASE">
-                  <point x="58.33333333333326" y="-15.0" />
-                  <point x="2709.5583333333334" y="820.0" />
-                  <point x="3003.584971447473" y="820.0" />
-                  <point x="3003.584971447473" y="490.0" />
-                  <point x="2849.6" y="490.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.yaml:snakeyaml:jar:1.19">
-                  <point x="-12.083333333333485" y="-15.0" />
-                  <point x="1895.7041666666664" y="690.0" />
-                  <point x="1800.2875" y="690.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25">
-                  <point x="65.0" y="-15.0" />
-                  <point x="2029.2875" y="610.0" />
-                  <point x="2113.622850235352" y="610.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT">
-                  <point x="0.0" y="-15.0" />
-                  <point x="1936.734971447473" y="1290.0" />
-                  <point x="1948.15163811414" y="1290.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot:jar:2.0.6.RELEASE">
-                  <point x="39.249999999999886" y="-15.0" />
-                  <point x="3131.834971447473" y="580.0" />
-                  <point x="2677.1" y="580.0" />
-                  <point x="12.75" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-web:jar:5.0.10.RELEASE/org.springframework:spring-beans:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-core:jar:5.0.10.RELEASE">
-                  <point x="0.0" y="-15.0" />
-                  <point x="2105.370833333333" y="180.0" />
-                  <point x="2133.7041666666664" y="180.0" />
-                  <point x="-4.166666666666515" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE/org.springframework:spring-expression:jar:5.0.10.RELEASE">
-                  <point x="-30.25" y="-15.0" />
-                  <point x="459.1787908037975" y="1160.0" />
-                  <point x="437.75" y="1160.0" />
-                  <point x="-34.25" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final/javax.validation:validation-api:jar:2.0.1.Final">
-                  <point x="0.0" y="-15.0" />
-                  <point x="1626.0416666666665" y="1170.0" />
-                  <point x="1632.0416666666665" y="1170.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2">
-                  <point x="71.25" y="-15.0" />
-                  <point x="323.13131935632396" y="1170.0" />
-                  <point x="382.0" y="1170.0" />
-                  <point x="382.0" y="710.0" />
-                  <point x="496.5" y="710.0" />
-                  <point x="-37.25" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper-spring-boot-autoconfigure:jar:1.2.3">
-                  <point x="-27.125" y="-15.0" />
-                  <point x="2123.225" y="1000.0" />
-                  <point x="2130.2875" y="1000.0" />
-                  <point x="2130.2875" y="830.0" />
-                  <point x="2282.0345544095553" y="830.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-core:jar:2.9.7">
-                  <point x="33.25" y="-15.0" />
-                  <point x="1045.9166666666665" y="1000.0" />
-                  <point x="1126.9912908037975" y="1000.0" />
-                  <point x="-13.375" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-common:jar:0.0.1-SNAPSHOT">
-                  <point x="0.0" y="-15.0" />
-                  <point x="2008.37663811414" y="1070.0" />
-                  <point x="1954.35" y="1070.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-common:jar:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE">
-                  <point x="-33.75" y="-15.0" />
-                  <point x="1920.6" y="1000.0" />
-                  <point x="1907.7875" y="1000.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot:jar:2.0.6.RELEASE">
-                  <point x="0.0" y="-15.0" />
-                  <point x="2537.475" y="610.0" />
-                  <point x="2651.6" y="610.0" />
-                  <point x="-12.75" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7">
-                  <point x="-40.5" y="-15.0" />
-                  <point x="1301.0416666666665" y="1070.0" />
-                  <point x="1062.5416666666665" y="1070.0" />
-                  <point x="49.875" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.6.RELEASE/org.springframework:spring-jdbc:jar:5.0.10.RELEASE" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.6.RELEASE/org.springframework:spring-jdbc:jar:5.0.10.RELEASE/org.springframework:spring-tx:jar:5.0.10.RELEASE">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-test:jar:2.0.6.RELEASE">
-                  <point x="13.153846153846189" y="-15.0" />
-                  <point x="3637.1905915030984" y="1240.0" />
-                  <point x="3685.0367453492518" y="1240.0" />
-                  <point x="32.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2/org.ow2.asm:asm:jar:5.0.4">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE">
-                  <point x="72.5" y="-15.0" />
-                  <point x="1131.8662908037975" y="1170.0" />
-                  <point x="1433.0416666666665" y="1170.0" />
-                  <point x="1433.0416666666665" y="790.0" />
-                  <point x="1841.878409090909" y="790.0" />
-                  <point x="-65.90909090909099" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final">
-                  <point x="43.499999999999545" y="-15.0" />
-                  <point x="898.6787908037975" y="1280.0" />
-                  <point x="1626.0416666666665" y="1280.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.hamcrest:hamcrest-library:jar:1.3" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.hamcrest:hamcrest-core:jar:1.3">
-                  <point x="0.0" y="-15.0" />
-                  <point x="3256.0367453492518" y="1170.0" />
-                  <point x="3238.4534120159187" y="1170.0" />
-                  <point x="38.66666666666666" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.2">
-                  <point x="39.0" y="-15.0" />
-                  <point x="2506.975" y="910.0" />
-                  <point x="2537.475" y="910.0" />
-                  <point x="2537.475" y="800.0" />
-                  <point x="2679.0345544095553" y="800.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-core:jar:2.9.7">
-                  <point x="0.0" y="-15.0" />
-                  <point x="899.5416666666665" y="1080.0" />
-                  <point x="876.375" y="1080.0" />
-                  <point x="876.375" y="990.0" />
-                  <point x="1100.2412908037975" y="990.0" />
-                  <point x="-40.125" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2">
-                  <point x="-60.416666666666515" y="-15.0" />
-                  <point x="1847.3708333333334" y="710.0" />
-                  <point x="571.0" y="710.0" />
-                  <point x="37.25" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.25">
-                  <point x="26.5" y="-15.0" />
-                  <point x="1861.2875" y="480.0" />
-                  <point x="2480.2978502353517" y="480.0" />
-                  <point x="-31.200000000000045" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper-spring-boot-autoconfigure:jar:1.2.3" target="org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.6.RELEASE">
-                  <point x="0.0" y="-15.0" />
-                  <point x="2282.0345544095553" y="710.0" />
-                  <point x="2499.875" y="710.0" />
-                  <point x="-37.59999999999991" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-core:jar:5.0.10.RELEASE">
-                  <point x="-36.25" y="-15.0" />
-                  <point x="1871.5375" y="700.0" />
-                  <point x="1640.2875" y="700.0" />
-                  <point x="1640.2875" y="170.0" />
-                  <point x="2125.370833333333" y="170.0" />
-                  <point x="-12.5" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis:mybatis-spring:jar:1.3.2">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3">
-                  <point x="-30.25" y="-15.0" />
-                  <point x="1957.872850235352" y="470.0" />
-                  <point x="2376.622850235352" y="470.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0">
-                  <point x="-33.25" y="-15.0" />
-                  <point x="979.4166666666665" y="980.0" />
-                  <point x="930.4224714474731" y="980.0" />
-                  <point x="37.25" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-web:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE">
-                  <point x="-40.5" y="-15.0" />
-                  <point x="2259.7412908037977" y="1370.0" />
-                  <point x="855.1787908037979" y="1370.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7">
-                  <point x="57.333333333333485" y="-15.0" />
-                  <point x="956.875" y="1080.0" />
-                  <point x="962.7916666666665" y="1080.0" />
-                  <point x="-49.875" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-web:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-core:jar:5.0.10.RELEASE">
-                  <point x="-24.5" y="-15.0" />
-                  <point x="679.1724714474731" y="1080.0" />
-                  <point x="652.75" y="1080.0" />
-                  <point x="652.75" y="150.0" />
-                  <point x="2108.7041666666664" y="150.0" />
-                  <point x="-29.166666666666515" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE">
-                  <point x="14.499999999999545" y="-15.0" />
-                  <point x="869.6787908037975" y="1270.0" />
-                  <point x="1059.3662908037975" y="1270.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper:jar:5.1.2" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper:jar:5.1.2/com.github.jsqlparser:jsqlparser:jar:1.0">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.6.RELEASE">
-                  <point x="78.0" y="-15.0" />
-                  <point x="2545.975" y="910.0" />
-                  <point x="2651.225" y="910.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-web:jar:5.0.10.RELEASE/org.springframework:spring-beans:jar:5.0.10.RELEASE">
-                  <point x="10.08333333333303" y="-15.0" />
-                  <point x="499.5121241371305" y="1150.0" />
-                  <point x="618.75" y="1150.0" />
-                  <point x="618.75" y="370.0" />
-                  <point x="770.75" y="370.0" />
-                  <point x="770.75" y="260.0" />
-                  <point x="2078.120833333333" y="260.0" />
-                  <point x="-27.25" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE">
-                  <point x="12.083333333333485" y="-15.0" />
-                  <point x="1919.8708333333334" y="680.0" />
-                  <point x="1964.2875" y="680.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.mockito:mockito-core:jar:2.15.0" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy-agent:jar:1.7.11">
-                  <point x="36.66666666666674" y="-15.0" />
-                  <point x="3936.2034120159187" y="1170.0" />
-                  <point x="4031.5367453492518" y="1170.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.34">
-                  <point x="-23.75" y="-15.0" />
-                  <point x="228.13131935632396" y="1170.0" />
-                  <point x="245.5" y="1170.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/junit:junit:jar:4.12" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.hamcrest:hamcrest-core:jar:1.3">
-                  <point x="0.0" y="-15.0" />
-                  <point x="3143.5367453492518" y="1170.0" />
-                  <point x="3161.120078682585" y="1170.0" />
-                  <point x="-38.66666666666666" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7">
-                  <point x="-58.5" y="-15.0" />
-                  <point x="1065.0416666666665" y="1080.0" />
-                  <point x="1029.2916666666665" y="1080.0" />
-                  <point x="16.625" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-test:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-core:jar:5.0.10.RELEASE">
-                  <point x="0.0" y="-15.0" />
-                  <point x="4344.603412015918" y="140.0" />
-                  <point x="2175.370833333333" y="140.0" />
-                  <point x="37.5" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/com.alibaba:druid:jar:1.1.10">
-                  <point x="-21.40000000000009" y="-15.0" />
-                  <point x="2243.341290803797" y="1160.0" />
-                  <point x="2142.2412908037977" y="1160.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE/org.springframework:spring-aop:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-core:jar:5.0.10.RELEASE">
-                  <point x="-24.25" y="-15.0" />
-                  <point x="687.5" y="160.0" />
-                  <point x="2117.0374999999995" y="160.0" />
-                  <point x="-20.833333333333485" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE">
-                  <point x="-31.0" y="-15.0" />
-                  <point x="1917.15163811414" y="1170.0" />
-                  <point x="1844.2916666666665" y="1170.0" />
-                  <point x="1844.2916666666665" y="820.0" />
-                  <point x="1881.4238636363634" y="820.0" />
-                  <point x="-26.363636363636488" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.hamcrest:hamcrest-core:jar:1.3">
-                  <point x="-39.46153846153834" y="-15.0" />
-                  <point x="3584.5752068877136" y="1260.0" />
-                  <point x="3182.0367453492518" y="1260.0" />
-                  <point x="3182.0367453492518" y="1170.0" />
-                  <point x="3199.7867453492518" y="1170.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.7">
-                  <point x="14.5" y="-15.0" />
-                  <point x="1073.8662908037975" y="1150.0" />
-                  <point x="1123.5416666666665" y="1150.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.6.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.25">
-                  <point x="30.25" y="-15.0" />
-                  <point x="2018.372850235352" y="490.0" />
-                  <point x="2495.897850235352" y="490.0" />
-                  <point x="-15.599999999999909" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2">
-                  <point x="42.80000000000018" y="-15.0" />
-                  <point x="2307.541290803798" y="1170.0" />
-                  <point x="2516.725" y="1170.0" />
-                  <point x="48.75" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.6.RELEASE/org.springframework:spring-jdbc:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-web:jar:5.0.10.RELEASE/org.springframework:spring-beans:jar:5.0.10.RELEASE">
-                  <point x="-33.0" y="-15.0" />
-                  <point x="2816.6" y="370.0" />
-                  <point x="2797.1" y="370.0" />
-                  <point x="2797.1" y="270.0" />
-                  <point x="2132.620833333333" y="270.0" />
-                  <point x="27.25" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-test:jar:2.0.6.RELEASE">
-                  <point x="53.5" y="-15.0" />
-                  <point x="3500.0367453492518" y="1170.0" />
-                  <point x="3621.0367453492518" y="1170.0" />
-                  <point x="-32.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE">
-                  <point x="-43.500000000000455" y="-15.0" />
-                  <point x="811.6787908037975" y="1280.0" />
-                  <point x="489.4287908037975" y="1280.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3/com.github.pagehelper:pagehelper:jar:5.1.2">
-                  <point x="27.125" y="-15.0" />
-                  <point x="2177.475" y="1000.0" />
-                  <point x="2190.2875" y="1000.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.mockito:mockito-core:jar:2.15.0" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.mockito:mockito-core:jar:2.15.0/net.bytebuddy:byte-buddy:jar:1.7.11">
-                  <point x="-36.66666666666674" y="-15.0" />
-                  <point x="3862.8700786825852" y="1170.0" />
-                  <point x="3786.5367453492518" y="1170.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.mybatis:mybatis:jar:3.4.6">
-                  <point x="-39.0" y="-15.0" />
-                  <point x="2428.975" y="900.0" />
-                  <point x="2349.475" y="900.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0">
-                  <point x="52.61538461538464" y="-15.0" />
-                  <point x="3676.6521299646365" y="1270.0" />
-                  <point x="4204.036745349253" y="1270.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.6.RELEASE" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.6.RELEASE/com.zaxxer:HikariCP:jar:2.7.9">
-                  <point x="0.0" y="-15.0" />
-                  <point x="2651.225" y="810.0" />
-                  <point x="2816.451221076222" y="810.0" />
-                  <point x="2816.451221076222" y="590.0" />
-                  <point x="2552.85" y="590.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.7">
-                  <point x="-43.5" y="-15.0" />
-                  <point x="1015.8662908037975" y="1160.0" />
-                  <point x="899.5416666666665" y="1160.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.7" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7/com.fasterxml.jackson.core:jackson-core:jar:2.9.7">
-                  <point x="58.5" y="-15.0" />
-                  <point x="1182.0416666666665" y="1000.0" />
-                  <point x="1153.7412908037975" y="1000.0" />
-                  <point x="13.375" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-test:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot:jar:2.0.6.RELEASE">
-                  <point x="0.0" y="-15.0" />
-                  <point x="3653.0367453492518" y="570.0" />
-                  <point x="2702.6" y="570.0" />
-                  <point x="38.25" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-web:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE">
-                  <point x="40.5" y="-15.0" />
-                  <point x="2340.7412908037977" y="1370.0" />
-                  <point x="3624.0367453492518" y="1370.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7">
-                  <point x="-14.5" y="-15.0" />
-                  <point x="1044.8662908037975" y="1150.0" />
-                  <point x="996.0416666666665" y="1150.0" />
-                  <point x="-16.625" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-web:jar:5.0.10.RELEASE">
-                  <point x="-72.5" y="-15.0" />
-                  <point x="986.8662908037975" y="1170.0" />
-                  <point x="736.33913811414" y="1170.0" />
-                  <point x="32.66666666666697" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2/org.springframework.boot:spring-boot-starter-jdbc:jar:2.0.6.RELEASE/org.springframework:spring-jdbc:jar:5.0.10.RELEASE/org.springframework:spring-tx:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-web:jar:5.0.10.RELEASE/org.springframework:spring-beans:jar:5.0.10.RELEASE">
-                  <point x="-21.0" y="-15.0" />
-                  <point x="2828.6" y="260.0" />
-                  <point x="2150.7874999999995" y="260.0" />
-                  <point x="45.416666666666515" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE/org.springframework:spring-context:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-web:jar:5.0.10.RELEASE/org.springframework:spring-beans:jar:5.0.10.RELEASE">
-                  <point x="14.5" y="-15.0" />
-                  <point x="2127.9125" y="370.0" />
-                  <point x="2114.4541666666664" y="370.0" />
-                  <point x="9.083333333333485" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE/org.springframework:spring-context:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE/org.springframework:spring-aop:jar:5.0.10.RELEASE">
-                  <point x="-14.5" y="-15.0" />
-                  <point x="2098.9125" y="340.0" />
-                  <point x="736.0" y="340.0" />
-                  <point x="24.25" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT">
-                  <point x="-42.80000000000018" y="-15.0" />
-                  <point x="2221.9412908037975" y="1170.0" />
-                  <point x="2038.62663811414" y="1170.0" />
-                  <point x="30.25" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-common:jar:0.0.1-SNAPSHOT" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-common:jar:0.0.1-SNAPSHOT/tk.mybatis:mapper:jar:3.4.0">
-                  <point x="33.75" y="-15.0" />
-                  <point x="1988.1" y="1000.0" />
-                  <point x="1989.85" y="1000.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3">
-                  <point x="-21.75" y="-15.0" />
-                  <point x="4182.286745349253" y="1170.0" />
-                  <point x="4167.036745349253" y="1170.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.6.RELEASE">
-                  <point x="-72.50000000000045" y="-15.0" />
-                  <point x="782.6787908037975" y="1290.0" />
-                  <point x="251.88131935632396" y="1290.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE">
-                  <point x="-78.0" y="-15.0" />
-                  <point x="2389.975" y="910.0" />
-                  <point x="2300.475" y="910.0" />
-                  <point x="2300.475" y="810.0" />
-                  <point x="1947.3329545454544" y="810.0" />
-                  <point x="39.545454545454504" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.6.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.7">
-                  <point x="43.5" y="-15.0" />
-                  <point x="1102.8662908037975" y="1160.0" />
-                  <point x="1341.5416666666665" y="1160.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-web:jar:5.0.10.RELEASE">
-                  <point x="-14.500000000000455" y="-15.0" />
-                  <point x="840.6787908037975" y="1270.0" />
-                  <point x="703.6724714474731" y="1270.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final/com.fasterxml:classmate:jar:1.3.4">
-                  <point x="47.66666666666697" y="-15.0" />
-                  <point x="1673.7083333333335" y="1170.0" />
-                  <point x="1752.0416666666665" y="1170.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.6.RELEASE">
-                  <point x="-81.375" y="-15.0" />
-                  <point x="2068.975" y="1000.0" />
-                  <point x="2087.725" y="1000.0" />
-                  <point x="2087.725" y="830.0" />
-                  <point x="1920.969318181818" y="830.0" />
-                  <point x="13.181818181818016" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.3">
-                  <point x="40.333333333333485" y="-15.0" />
-                  <point x="2048.7099714474734" y="1080.0" />
-                  <point x="2150.35" y="1080.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT" target="com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-dao:jar:0.0.1-SNAPSHOT">
-                  <point x="49.666666666666515" y="-15.0" />
-                  <point x="1986.4016381141396" y="1290.0" />
-                  <point x="2264.7412908037977" y="1290.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.mockito:mockito-core:jar:2.15.0" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.mockito:mockito-core:jar:2.15.0/org.objenesis:objenesis:jar:2.6">
-                  <point x="0.0" y="-15.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework:spring-webmvc:jar:5.0.10.RELEASE/org.springframework:spring-expression:jar:5.0.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/org.springframework:spring-core:jar:5.0.10.RELEASE">
-                  <point x="0.0" y="-15.0" />
-                  <point x="472.0" y="140.0" />
-                  <point x="2100.370833333333" y="140.0" />
-                  <point x="-37.5" y="15.0" />
-                </edge>
-                <edge source="com.tu.learning:learning-web:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-devtools:jar:2.0.6.RELEASE">
-                  <point x="13.5" y="-15.0" />
-                  <point x="2313.7412908037977" y="1360.0" />
-                  <point x="2916.451221076222" y="1360.0" />
-                  <point x="2916.451221076222" y="830.0" />
-                  <point x="3092.584971447473" y="830.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0" target="org.springframework.boot:spring-boot-starter-test:jar:2.0.6.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/org.slf4j:slf4j-api:jar:1.7.25">
-                  <point x="21.75" y="-15.0" />
-                  <point x="4225.786745349253" y="1170.0" />
-                  <point x="4241.036745349253" y="1170.0" />
-                  <point x="4241.036745349253" y="440.0" />
-                  <point x="2542.697850235352" y="440.0" />
-                  <point x="31.199999999999818" y="15.0" />
-                </edge>
-                <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.6.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.6.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.6.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.34">
-                  <point x="-71.25" y="-15.0" />
-                  <point x="180.63131935632396" y="1170.0" />
-                  <point x="66.5" y="1170.0" />
-                  <point x="0.0" y="15.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="0.8679850124895918" x="1533.502470142453" y="1338.502470142453" />
-              <SelectedNodes>
-                <node>com.tu.learning:learning-web:0.0.1-SNAPSHOT</node>
-                <node>com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT</node>
-              </SelectedNodes>
-              <Categories />
-              <VISIBILITY>All</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning-service/src/main/java/com/tu/learning/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning-model/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning-web/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -1070,6 +38,9 @@
       <find>druid</find>
       <find>mybatis</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -1128,9 +99,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="477" />
+    <option name="x" value="101" />
+    <option name="y" value="7" />
     <option name="width" value="1213" />
-    <option name="height" value="728" />
+    <option name="height" value="758" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -1348,11 +320,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="477" y="0" width="1213" height="728" extended-state="0" />
+    <frame x="126" y="0" width="1213" height="758" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="16" sideWeight="0.50075644" side_tool="true" weight="0.3294893" />
-      <window_info anchor="right" id="Maven Projects" order="9" weight="0.31240544" />
+      <window_info anchor="right" id="Maven Projects" order="9" visible="true" weight="0.31222898" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
@@ -1368,7 +340,7 @@
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.3294893" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49924356" visible="true" weight="0.3079526" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49924356" visible="true" weight="0.29354838" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.3294893" />
@@ -1380,11 +352,41 @@
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="16" sideWeight="0.50075644" side_tool="true" weight="0.3294893" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30008674" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.3294893" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="Problems" order="11" weight="0.3294893" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.31240544" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49924356" visible="true" weight="0.3079526" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Tail" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294893" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3294893" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.37397036" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3294893" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Designer" order="2" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1555,9 +557,10 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.008486707566462" x="1270.691371793572" y="731.5266146202981" />
+          <settings layout="Hierarchic Group" zoom="1.008486707566462" x="1271.0" y="732.0" />
           <SelectedNodes />
           <Categories />
+          <SCOPE>All</SCOPE>
           <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
@@ -2001,11 +1004,12 @@
               <point x="0.0" y="15.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.8643564356435643" x="226.6632302405498" y="843.6632302405499" />
+          <settings layout="Hierarchic Group" zoom="0.8643564356435643" x="227.0" y="844.0" />
           <SelectedNodes>
             <node>com.tu.learning:learning-serviceimpl:0.0.1-SNAPSHOT</node>
           </SelectedNodes>
           <Categories />
+          <SCOPE>All</SCOPE>
           <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
@@ -2070,6 +1074,7 @@
           <settings layout="Hierarchic Group" zoom="0.4865403788634098" x="983.0" y="430.0" />
           <SelectedNodes />
           <Categories />
+          <SCOPE>All</SCOPE>
           <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
@@ -2083,9 +1088,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2134,23 +1136,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning-web/src/main/java/com/tu/learning/web/LearningWebApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#329#330#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-web/src/main/java/com/tu/learning/web/LearningWebApplication.java" />
     <entry file="file://$PROJECT_DIR$/learning-dao/src/main/java/com/tu/learning/dao/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2161,9 +1151,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning-web/src/main/java/com/tu/LearningWebApplication.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-web/src/main/java/com/tu/LearningWebApplication.java" />
     <entry file="file://$PROJECT_DIR$/learning-dao/src/main/resources/mapper/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -2182,9 +1170,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2245,9 +1230,10 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="0.9593054318788959" x="400.6168198273461" y="689.315613699785" />
+          <settings layout="Hierarchic Group" zoom="0.9593054318788959" x="401.0" y="689.0" />
           <SelectedNodes />
           <Categories />
+          <SCOPE>All</SCOPE>
           <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
@@ -2263,9 +1249,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3208,12 +2191,13 @@
               <point x="0.0" y="15.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.8679850124895918" x="1533.502470142453" y="1338.502470142453" />
+          <settings layout="Hierarchic Group" zoom="0.8679850124895918" x="1534.0" y="1339.0" />
           <SelectedNodes>
             <node>com.tu.learning:learning-web:0.0.1-SNAPSHOT</node>
             <node>com.tu.learning:learning-serviceimpl:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-service:jar:0.0.1-SNAPSHOT/com.tu.learning:learning-model:jar:0.0.1-SNAPSHOT</node>
           </SelectedNodes>
           <Categories />
+          <SCOPE>All</SCOPE>
           <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
@@ -3236,9 +2220,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

@@ -16,6 +16,12 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="learning" target="1.8" />
+      <module name="learning-common" target="1.8" />
+      <module name="learning-dao" target="1.8" />
+      <module name="learning-model" target="1.8" />
+      <module name="learning-service" target="1.8" />
+      <module name="learning-serviceimpl" target="1.8" />
+      <module name="learning-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
